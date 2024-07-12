@@ -7,6 +7,3 @@
 - 📫 How to reach me: michalcovla@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I switched to coding from translating and interpreting between Czech and German. 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vlastami&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
